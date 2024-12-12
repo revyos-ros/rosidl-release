@@ -1,3 +1,40 @@
+## rosidl (humble) - 3.1.6-1
+
+The packages in the `rosidl` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble rosidl --override-release-repository-push-url git@github.com:revyos-ros/rosidl-release.git` on `Thu, 12 Dec 2024 07:13:50 -0000`
+
+These packages were released:
+- `rosidl_adapter`
+- `rosidl_cli`
+- `rosidl_cmake`
+- `rosidl_generator_c`
+- `rosidl_generator_cpp`
+- `rosidl_parser`
+- `rosidl_runtime_c`
+- `rosidl_runtime_cpp`
+- `rosidl_typesupport_interface`
+- `rosidl_typesupport_introspection_c`
+- `rosidl_typesupport_introspection_cpp`
+
+These packages were explicitly ignored:
+- `rosidl_typesupport_introspection_tests`
+
+Version of package(s) in repository `rosidl`:
+
+- upstream repository: https://github.com/ros2/rosidl.git
+- release repository: https://github.com/revyos-ros/rosidl-release.git
+- rosdistro version: `3.1.6-1`
+- old version: `3.1.5-2`
+- new version: `3.1.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rosidl (jazzy) - 4.6.4-1
 
 The packages in the `rosidl` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy rosidl --override-release-repository-push-url git@github.com:revyos-ros/rosidl-release.git` on `Tue, 24 Sep 2024 04:46:04 -0000`
